@@ -1,1 +1,1 @@
-#ANN# api.blockchair.combitcoinstats
+#ANN# api.blockchair
